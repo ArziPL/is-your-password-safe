@@ -1,3 +1,9 @@
 # is-your-password-safe
-Checking if your password was ever breached/put into public lists using HaveIBeenPwned API 
-### https://haveibeenpwned.com/
+#### Description
+Using HaveIBeenPwned API checking if your password was breached/put into public lists.
+- - -
+#### Technologies
+Python
+- - -
+#### Links 
+https://haveibeenpwned.com/
