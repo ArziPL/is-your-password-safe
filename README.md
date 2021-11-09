@@ -16,7 +16,7 @@ ToDo :
 </span>  
 
 ### HOW TO
-`py main.py [your password]` 
+Run `py main.py [your password]` 
 
 ***
 
